@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "endgamecore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jelizondo/EndgameCore",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4a3a8594b60ad95384219ce51679c5e02303a10e"
+      }
+    }
+  ],
+  "version" : 2
+}
